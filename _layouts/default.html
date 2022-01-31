@@ -1,0 +1,16 @@
+<!doctype html>
+<meta charset=utf-8>
+<meta name=viewport content=width=device-width>
+<title>{{ page.title }}</title>
+<link rel=stylesheet href={{ "/a.css" | relative_url }}>
+
+<nav>
+  <ul>
+    <li><a href="{{ "/" | relative_url }}"><h1>{{ site.title }}</h1></a>
+    <li><a href="{{ "/archive/" | relative_url}}">archive</a>
+  </ul>
+</nav>
+
+<article>
+{{ content }}
+</article>

@@ -1,0 +1,7 @@
+---
+---
+<ul class=main>
+{% for o in site.posts %}
+<li><a href="{{ o.url | relative_url }}"><img src="{{ o.image | relative_url }}" alt="{{ o.transcript }}"></a>
+{% endfor %}
+</ul>

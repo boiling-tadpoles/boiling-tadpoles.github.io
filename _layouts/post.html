@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<header>
+  <img src="{{ page.image | relative_url }}">
+  <nav><ul>
+    <li><a href="{{ page.original }}">source</a>
+    {% if page.archive %}<li><a href="{{ page.archive }}" class=archive>archived</a>{% endif %}
+  </ul></nav>
+</header>
+
+{{ content }}

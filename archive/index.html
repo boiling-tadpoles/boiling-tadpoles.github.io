@@ -1,0 +1,7 @@
+---
+---
+<ul class=archive>
+{% for o in site.posts %}
+<li><a href="{{ o.url | relative_url }}">{{ o.title }}</a>
+{% endfor %}
+</ul>
