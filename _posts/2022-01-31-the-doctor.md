@@ -2,7 +2,7 @@
 title: the Doctor
 image: /images/stethoscope.jpg
 original: http://icare-medical.cn/
-archive: 
+archive: http://web.archive.org/web/20211205185738/http://icare-medical.cn/
 transcript: |-
   Each of the 2 global
   high-end stethoscope
