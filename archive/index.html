@@ -3,6 +3,6 @@ title: archive
 ---
 <ul class=archive>
 {% for o in site.posts %}
-<li><a href="{{ o.url | relative_url }}">{{ o.title }}</a>
+<li><a href="{{ o.url | relative_url }}">{{ o.title | slice: 0, 1 | upcase }}{{ o.title | slice: 1, 10000 }}.</a>
 {% endfor %}
 </ul>
