@@ -1,6 +1,7 @@
 ---
 title: the Artifact
 image: /images/artifact.jpg
+full_image: /images/artifact-original.webp
 original: https://www.aliexpress.com/item/1005003875100421.html
 archive: https://archive.is/8bi2z
 transcript: |-

@@ -1,6 +1,7 @@
 ---
 title: the Family
 image: /images/family.jpg
+full_image: /images/family-original.jpeg
 original: https://www.aliexpress.com/item/1005001501168519.html
 archive: https://archive.is/92AwE
 transcript: |-
