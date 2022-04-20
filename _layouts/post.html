@@ -6,6 +6,7 @@ layout: default
   <img src="{{ page.image | relative_url }}">
   <nav><ul>
     {% if page.full_image %}<li><a href="{{ page.full_image | relative_url }}">full image</a>{% endif %}
+    {% if page.restored %}<li><a href="{{ page.restored | relative_url }}">zoom+enhance</a>{% endif %}
     <li><a href="{{ page.original }}">source</a>
     {% if page.archive %}<li><a href="{{ page.archive }}" class=archive>archived</a>{% endif %}
   </ul></nav>
