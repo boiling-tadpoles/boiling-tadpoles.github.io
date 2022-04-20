@@ -1,6 +1,6 @@
 ---
 title: the Piston
-image: /images/tadpoles.jpg
+image: /images/tadpoles-restored.jpg
 full_image: /images/tadpoles-original.webp
 original: https://www.aliexpress.com/item/1005003627998601.html
 # archive: https://archive.is/xX9px

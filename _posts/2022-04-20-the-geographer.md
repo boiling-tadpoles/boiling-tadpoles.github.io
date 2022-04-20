@@ -1,6 +1,6 @@
 ---
 title: the Geographer
-image: /images/geographer.png
+image: /images/geographer.jpg
 original: https://www.aliexpress.com/item/1005003974459945.html
 archive: https://web.archive.org/web/20220420061257/https://www.aliexpress.com/item/1005003974459945.html
 transcript: |-

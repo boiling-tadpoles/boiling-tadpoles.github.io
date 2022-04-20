@@ -1,6 +1,6 @@
 ---
 title: the Afterlife
-image: /images/afterlife.jpg
+image: /images/afterlife-restored.jpg
 full_image: /images/afterlife-original.webp
 original: https://www.aliexpress.com/item/1005003329568440.html
 archive: https://web.archive.org/web/20220223203452/https://www.aliexpress.com/item/1005003329568440.html

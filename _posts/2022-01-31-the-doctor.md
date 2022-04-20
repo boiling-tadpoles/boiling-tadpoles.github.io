@@ -1,6 +1,6 @@
 ---
 title: the Doctor
-image: /images/stethoscope2.jpg
+image: /images/stethoscope-restored.jpg
 full_image: /images/stethoscope-original.jpg
 original: http://icare-medical.cn/
 archive: http://web.archive.org/web/20211205185738/http://icare-medical.cn/
